@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhishek12-code
 - 👀 I’m interested in Python Coding
-- 🌱 I’m currently learning SAS & Data analyst tools
-- 💞️ I’m looking to collaborate on any Data analyst project
+- 🌱 I’m currently learning MERN Fullstack Technologies.
+- 💞️ I’m looking to collaborate on any development project.
 - 📫 How to reach me .. can contact me @ 6260391031
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
